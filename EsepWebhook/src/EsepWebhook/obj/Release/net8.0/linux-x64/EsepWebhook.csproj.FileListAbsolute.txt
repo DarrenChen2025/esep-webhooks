@@ -1,0 +1,17 @@
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/darrenchen/Webhook_Assignment/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
